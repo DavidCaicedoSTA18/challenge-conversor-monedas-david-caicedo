@@ -80,7 +80,7 @@ El valor 100.0 [USD] corresponde al valor final de --> 81275.0 [ARS]
 
 📸 Ejemplo de Uso
 *******************************************
-Sea bienvenido/a al Conversor de Moneda =]
+Bienvenido/a al Conversor de Monedas del Walas ´u´
 *******************************************
 
 1) Dólar --> Peso argentino
@@ -96,6 +96,11 @@ Elija una opción válida:
 Ingrese el valor que deseas convertir:
 50
 El valor 50.0 [USD] corresponde al valor final de --> 40587.50 [ARS]
+
+Resultados en consola
+
+<img width="821" height="798" alt="image" src="https://github.com/user-attachments/assets/c3de7e26-e5de-4fa6-b436-b750e9866e97" />
+
 🔑 API Key
 El proyecto incluye una API Key de ExchangeRate configurada. Si necesitas usar tu propia clave:
 
