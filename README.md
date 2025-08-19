@@ -40,20 +40,7 @@ Java JDK 11 o superior instalado
 Maven 3.6 o superior (opcional, pero recomendado)
 Conexión a Internet para consumir la API
 
-Pasos de Instalación
-
-Clonar o descargar el proyecto
-bashgit clone https://github.com/tu-usuario/conversor-monedas.git
-cd conversor-monedas
-
-Compilar el proyecto con Maven
-bashmvn clean compile
-
-Ejecutar la aplicación
-bashmvn exec:java -Dexec.mainClass="Principal"
-
-
-Alternativa: Crear JAR ejecutable
+Instalacion: Crear JAR ejecutable
 
 Generar el JAR con todas las dependencias
 bashmvn clean package
